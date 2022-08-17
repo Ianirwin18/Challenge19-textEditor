@@ -17,6 +17,9 @@
 
 ## Application Preview
 
+<p align="left">
+    <img alt="website preview" src="assets/texteditorpreview.png">
+</p>
 ## Installation
 
 - npm i
@@ -25,6 +28,8 @@
 ## Usage
 
 ## Links
+
+-Deployed link: https://pwa-texteditor-jate.herokuapp.com/
 
 - Github Repository:
   - https://github.com/Ianirwin18/Challenge19-textEditor
