@@ -20,6 +20,7 @@
 <p align="left">
     <img alt="website preview" src="assets/texteditorpreview.png">
 </p>
+
 ## Installation
 
 - npm i
@@ -27,12 +28,13 @@
 
 ## Usage
 
+- the application allows a user to edit text in their browers and then download it for offline useage.
+
 ## Links
 
 -Deployed link: https://pwa-texteditor-jate.herokuapp.com/
 
-- Github Repository:
-  - https://github.com/Ianirwin18/Challenge19-textEditor
+- Github Repository: https://github.com/Ianirwin18/Challenge19-textEditor
 
 ## Technologies
 
